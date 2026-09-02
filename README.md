@@ -96,6 +96,9 @@ These panels are used to get an overall view of authentication activity and fail
 ```text
 siem-project/
 │
+├── demo/
+│   └── siem-dashboard-demo.mp4
+│
 ├── documentation/
 │   └── BUILDING-A-SIEM-DASHBOARD-USING-ELK-STACK-FINAL.pdf
 │
@@ -126,3 +129,9 @@ The `.gitignore` file is used to prevent these files from being added to Git.
 ## Project Status
 
 The basic SIEM dashboard has been implemented and tested using SSH authentication failure events on Kali Linux.
+
+## Demo Video
+
+A screen recording of the project implementation is available here:
+
+[SIEM Dashboard Demo](demo/siem-dashboard-demo.mp4)
